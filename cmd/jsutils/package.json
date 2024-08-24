@@ -9,7 +9,7 @@
     "startTestnet": "node getvalidatorversion.js --Rpc https://bsc-testnet-dataseed.bnbchain.org --Num 7"
   },
   "dependencies": {
-    "commander": "^3.0.1",
+    "commander": "^12.1.0",
     "ethers": "^6.2.3"
   },
   "author": "BNB Chain"
